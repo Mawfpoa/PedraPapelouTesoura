@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textApp">App</string>
+    <string name="textOpcao">Escolha uma opção abaixo</string>
+    <string name="textUsuario">Usuario</string>
+    <string name="textResultado">Resultado</string>
+</resources>
